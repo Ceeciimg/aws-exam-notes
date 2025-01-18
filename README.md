@@ -1,2 +1,2 @@
 # aws-exam-notes
-Apuntes para el examen de computación en la nube (AWS), que cubren los temas principales del módulo
+Notas de estudio de AWS para preparación del examen de computación en la nube
